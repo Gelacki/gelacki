@@ -17,9 +17,9 @@ Trabalhando atualmente com foco em Fron-End.
 ### Linguagens & Frameworks
 | Categoria | Tecnologias Principais |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Vue.js, JavaScript, TypeScript, HTML, CSS |
+| **Frontend** | React, Next.js, JavaScript, TypeScript, HTML, CSS |
 | **Backend** | Node.js (Express), Python (Django/Flask), Java (Spring Boot) |
-| **Mobile** | React Native, Swift, Kotlin |
+| **Mobile** | React Native, Dart, Kotlin |
 
 ### Banco de Dados & DevOps
 * **Databases:** PostgreSQL, MongoDB, MySQL, Redis
