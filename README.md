@@ -38,8 +38,8 @@ Use esta seção para destacar suas habilidades e tecnologias favoritas.
 
 ## 🔗 Conecte-se Comigo
 
-[LinkedIn:](https://www.linkedin.com/in/gelacki
-[Portfólio/Website:](https://gelacki.github.io/portfolio/
+[LinkedIn:](https://www.linkedin.com/in/gelacki)
+[Portfólio/Website:](https://gelacki.github.io/portfolio/)
 [Email:](gelacki.chowa@gmail.com)
 
 ---
