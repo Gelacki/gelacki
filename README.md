@@ -9,8 +9,10 @@ Trabalhando atualmente com foco em Fron-End.
 ---
 
 ## 🛠️ O que estou usando e aprendendo
-
-Use esta seção para destacar suas habilidades e tecnologias favoritas.
+<img width="50" heigth="50" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 ### Linguagens & Frameworks
 | Categoria | Tecnologias Principais |
@@ -39,7 +41,9 @@ Use esta seção para destacar suas habilidades e tecnologias favoritas.
 ## 🔗 Conecte-se Comigo
 
 [LinkedIn:](https://www.linkedin.com/in/gelacki)
+
 [Portfólio/Website:](https://gelacki.github.io/portfolio/)
+
 [Email:](gelacki.chowa@gmail.com)
 
 ---
