@@ -33,7 +33,7 @@ Trabalhando atualmente com foco em Fron-End.
 <!--Liste 3-4 repositórios que você tem mais orgulho ou que melhor representam seu trabalho.-->
 
 * **Placar de Kumite (Luta Karate)**: Uma aplicação que marcação de pontos, faltas e tempo. Construído com HTML, CSS, JavaScript.
-* ** Lista de livros**: Projeto se baseia em uma lista de livros para ajudar novos dev a encontrarem livros para esclarecer suas duvidas e aumentar seu conhecimento https://github.com/Gelacki/imersao-dev.
+* **Lista de livros**: Projeto se baseia em uma lista de livros para ajudar novos dev a encontrarem livros para esclarecer suas duvidas e aumentar seu conhecimento https://github.com/Gelacki/imersao-dev.
 * **Barber Site**: Site para Barbearias.https://github.com/Gelacki/barber-site.
 
 ---
