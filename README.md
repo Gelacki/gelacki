@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Aryell Gelacki
 
-<!--
-**Gelacki/gelacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Full-Stack e Mobile (Em treinamento)
 
-Here are some ideas to get you started:
+Sou um entusiasta da tecnologia com paixão por resolver problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalhando atualmente com foco em Fron-End.
+
+---
+
+## 🛠️ O que estou usando e aprendendo
+
+Use esta seção para destacar suas habilidades e tecnologias favoritas.
+
+### Linguagens & Frameworks
+| Categoria | Tecnologias Principais |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Vue.js, JavaScript, TypeScript, HTML, CSS |
+| **Backend** | Node.js (Express), Python (Django/Flask), Java (Spring Boot) |
+| **Mobile** | React Native, Swift, Kotlin |
+
+### Banco de Dados & DevOps
+* **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+* **Cloud & Infra:** AWS (EC2, S3), Azure, Docker, Kubernetes
+* **Ferramentas:** Git, VS Code, Figma
+
+---
+
+## 🎯 Projetos em Destaque
+
+<!--Liste 3-4 repositórios que você tem mais orgulho ou que melhor representam seu trabalho.-->
+
+* **Placar de Kumite (Luta Karate)**: Uma aplicação que marcação de pontos, faltas e tempo. Construído com HTML, CSS, JavaScript.
+* ** Lista de livros**: Projeto se baseia em uma lista de livros para ajudar novos dev a encontrarem livros para esclarecer suas duvidas e aumentar seu conhecimento https://github.com/Gelacki/imersao-dev.
+* **Barber Site**: Site para Barbearias.https://github.com/Gelacki/barber-site.
+
+---
+
+## 🔗 Conecte-se Comigo
+
+* **LinkedIn:** [https://www.linkedin.com/in/gelacki]
+* **Portfólio/Website:** https://gelacki.github.io/portfolio/
+* **Email:** gelacki.chowa@gmail.com
+
+---
+
+### ✨ O que estou fazendo agora
+
+* 🌱 Atualmente aprendendo/explorando Java.
+* 👯 Procurando colaborar em projetos de Back-End.
+* 💬 Pergunte-me sobre HTML, CSS, JavScript.
