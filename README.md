@@ -12,7 +12,7 @@
 
 ### 💻 Sobre mim
 
-- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS, JavaScript e automação (n8n)**
+- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS, JavaScript e n8n**
 - 🌱 Sempre evoluindo minhas habilidades em front-end
 - ⚡ Curioso por tecnologia e boas práticas de código
 - 📫 Entre em contato pelas redes abaixo
@@ -49,7 +49,7 @@
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="50" height="50"/>
-      <h3>Automação (n8n)</h3>
+      <h3>n8n</h3>
     </td>
   </tr>
 </table>
