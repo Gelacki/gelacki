@@ -55,8 +55,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Gelacki&show_icons=true&theme=default&hide_border=true" alt="Estatísticas GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gelacki&hide_border=true" alt="Streak GitHub" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Gelacki&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gelacki&theme=dark&hide_border=true&background=0D1117" alt="Streak GitHub" height="165"/>
 </p>
 
 ---
