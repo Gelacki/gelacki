@@ -39,16 +39,11 @@ Trabalhando atualmente com foco em Fron-End.
 
 ## 🔗 Conecte-se Comigo
 
-## 🔗 Conecte-se Comigo
 
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/gelacki" target="_blank">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/gelacki.krt/" target="_blank">
-  <img width="50" height="50" src="https://jsdelivr.net" style="background: #E4405F; padding: 8px; border-radius: 6px;" alt="Instagram" />
-</a>
-
 
 ---
 
