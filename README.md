@@ -1,90 +1,179 @@
-<h1 align="center">Olá, eu sou Aryell Gelacki 👋</h1>
-<h3 align="center">Desenvolvedor de Software & Engenheiro de Automação | Ponta Grossa - PR</h3>
+# 👋 Olá! Eu sou Aryell Gelacki
 
-<p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LINK_DO_INSTAGRAM_AQUI" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="40" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" width="40">
-  </a>
-</p>
+### 💻 Desenvolvedor de Software | Web Developer | Automação & Tecnologia
+
+Sou estudante de **Engenharia de Software** e apaixonado por desenvolvimento, tecnologia e automação.
+
+Atualmente estou desenvolvendo minhas habilidades na criação de **sites, sistemas e soluções digitais**, buscando transformar ideias em projetos funcionais, modernos e eficientes.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-- 🔭 Atualmente desenvolvendo **sistemas web** (como painéis de controle interativos de Ordem de Serviço) e landing pages de alta conversão.
-- ⚙️ Especialista em **automação de fluxos de trabalho** e integração de dados utilizando **n8n**, **Supabase** e agentes de IA para escalar operações.
-- 🌱 Aprimorando constantemente minhas habilidades de front-end construindo interfaces modernas com **HTML, CSS, JavaScript** e bibliotecas como **Chart.js**.
-- 💻 Meu ambiente de desenvolvimento é focado em produtividade: utilizo **WSL (Ubuntu)** configurado com shells customizados (Zsh/Fish).
-- ⚡ Curiosidade: Além de escrever código, sou atleta e Diretor Técnico de Karatê Goju-Ryu! 🥋
+* 🎓 Estudante de **Engenharia de Software**
+* 💻 Desenvolvedor focado em **Desenvolvimento Web**
+* 🌐 Conhecimentos em **HTML, CSS e JavaScript**
+* 🤖 Interesse em **Automação, Inteligência Artificial e APIs**
+* ⚙️ Experiência com ferramentas de desenvolvimento e automação
+* 🚀 Sempre estudando e buscando evoluir como desenvolvedor
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img alt="HTML5" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <br>HTML5
-      </td>
-      <td align="center" width="110">
-        <img alt="CSS3" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <br>CSS3
-      </td>
-      <td align="center" width="110">
-        <img alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="110">
-        <img alt="Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-        <br>Node.js
-      </td>
-      <td align="center" width="110">
-        <img alt="Supabase" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-        <br>Supabase
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img alt="n8n" height="45" width="45" src="https://cdn.simpleicons.org/n8n/FF6D5A" />
-        <br>n8n
-      </td>
-      <td align="center" width="110">
-        <img alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <br>Git
-      </td>
-      <td align="center" width="110">
-        <img alt="Ubuntu" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-        <br>Ubuntu
-      </td>
-      <td align="center" width="110">
-        <img alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-        <br>Linux
-      </td>
-      <td align="center" width="110">
-        <img alt="Bash" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-        <br>Bash
-      </td>
-    </tr>
-  </table>
+
+### 🌐 Desenvolvimento Web
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+</a>
+
 </div>
 
 <br>
 
+<div align="center">
+
+**HTML5**   •   **CSS3**   •   **JavaScript**
+
+</div>
+
 ---
 
-### 📊 Estatísticas do GitHub
+## 📚 Atualmente estudando
+
+```text
+🌐 Desenvolvimento Web
+├── HTML5
+├── CSS3
+└── JavaScript
+
+⚙️ Desenvolvimento
+├── Git & GitHub
+├── APIs
+└── Integração de sistemas
+
+🤖 Automação & IA
+├── Automação de processos
+├── Inteligência Artificial
+└── n8n
+```
+
+---
+
+## 💡 O que estou construindo
+
+```javascript
+const objetivo = {
+    aprender: "Todos os dias",
+    desenvolver: "Soluções inteligentes",
+    explorar: ["Web", "Automação", "IA"],
+    criar: "Projetos que gerem valor",
+    evoluir: true
+};
+
+console.log("🚀 Transformando ideias em código!");
+```
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelacki&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de gelacki"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelacki&layout=compact&theme=dracula" alt="Linguagens mais utilizadas por gelacki"/>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="SEU_LINK_INSTAGRAM">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="SEU_LINK_GITHUB">
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="SEU_LINK_WHATSAPP">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp"/>
+</a>
+
+</div>
+
+---
+
+## 💼 Projetos
+
+### 🚀 Em desenvolvimento
+
+| Projeto        | Descrição                  | Tecnologias             |
+| -------------- | -------------------------- | ----------------------- |
+| 🌐 Projeto Web | Aplicação web responsiva   | HTML • CSS • JavaScript |
+| ⚙️ Automação   | Automação de processos     | JavaScript • n8n        |
+| 🤖 Projeto IA  | Soluções utilizando IA     | IA • APIs               |
+| 💻 Sistema     | Sistema em desenvolvimento | JavaScript              |
+
+> 🔨 Novos projetos serão adicionados conforme meu desenvolvimento profissional.
+
+---
+
+## 🎯 Objetivos
+
+```text
+[████████████████░░░░] Desenvolvimento Web
+[██████████████░░░░░░] JavaScript
+[████████████░░░░░░░░] Automação
+[██████████░░░░░░░░░░] Inteligência Artificial
+[████████░░░░░░░░░░░░] Desenvolvimento de Sistemas
+```
+
+---
+
+<div align="center">
+
+### 🚀 "Transformando ideias em código."
+
+**Obrigado por visitar meu perfil!**
+
+⭐ Explore meus projetos e acompanhe minha evolução.
+
 </div>
