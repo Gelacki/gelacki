@@ -49,6 +49,6 @@ Trabalhando atualmente com foco em Fron-End.
 
 ### ✨ O que estou fazendo agora
 
-* 🌱 Atualmente aprendendo/explorando Java.
-* 👯 Procurando colaborar em projetos de Back-End.
+* 🌱 Atualmente aprendendo/explorando JavaScript.
+* 👯 Procurando colaborar em projetos de Front-End.
 * 💬 Pergunte-me sobre HTML, CSS, JavScript.
