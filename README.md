@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Aryell 👋</h1>
+<h1 align="center">Olá, eu sou Aryell Gelacki 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Automa%C3%A7%C3%A3o+com+n8n;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
