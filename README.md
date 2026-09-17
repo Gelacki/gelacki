@@ -17,13 +17,12 @@ Trabalhando atualmente com foco em Fron-End.
 ### Linguagens & Frameworks
 | Categoria | Tecnologias Principais |
 | :--- | :--- |
-| **Frontend** | React, Next.js, JavaScript, TypeScript, HTML, CSS |
-| **Backend** | Node.js (Express), Python (Django/Flask), Java (Spring Boot) |
-| **Mobile** | React Native, Dart, Kotlin |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Node.js (Express), |
 
 ### Banco de Dados & DevOps
 * **Databases:** PostgreSQL, MongoDB, MySQL, Redis
-* **Cloud & Infra:** AWS (EC2, S3), Azure, Docker, Kubernetes
+* **Cloud & Infra:** SupaBase
 * **Ferramentas:** Git, VS Code, Figma
 
 ---
@@ -40,13 +39,16 @@ Trabalhando atualmente com foco em Fron-End.
 
 ## 🔗 Conecte-se Comigo
 
+## 🔗 Conecte-se Comigo
+
 ### Você também me encontra em:
-<a href="https://www.linkedin.com/in/gelacki">
-  <img width="50" heigth="50" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/gelacki" target="_blank">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/gelacki.krt/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/gelacki.krt/" target="_blank">
+  <img width="50" height="50" src="https://jsdelivr.net" style="background: #E4405F; padding: 8px; border-radius: 6px;" alt="Instagram" />
 </a>
+
 
 ---
 
