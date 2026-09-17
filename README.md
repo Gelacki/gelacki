@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Aryell 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Automa%C3%A7%C3%A3o+com+n8n;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 💻 Sobre mim
 
-- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS e JavaScript**
+- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS, JavaScript e automação (n8n)**
 - 🌱 Sempre evoluindo minhas habilidades em front-end
 - ⚡ Curioso por tecnologia e boas práticas de código
 - 📫 Entre em contato pelas redes abaixo
@@ -40,12 +40,16 @@
       <h3>Git</h3>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+      <img src="https://cdn.simpleicons.org/github/ffffff" title="GitHub" alt="GitHub" width="50" height="50"/>
       <h3>GitHub</h3>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
       <h3>VS Code</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="50" height="50"/>
+      <h3>Automação (n8n)</h3>
     </td>
   </tr>
 </table>
