@@ -1,179 +1,99 @@
-# 👋 Olá! Eu sou Aryell Gelacki
+<h1 align="center">Olá, eu sou o Aryell 👋</h1>
 
-### 💻 Desenvolvedor de Software | Web Developer | Automação & Tecnologia
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Sou estudante de **Engenharia de Software** e apaixonado por desenvolvimento, tecnologia e automação.
-
-Atualmente estou desenvolvendo minhas habilidades na criação de **sites, sistemas e soluções digitais**, buscando transformar ideias em projetos funcionais, modernos e eficientes.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Engenharia de Software**
-* 💻 Desenvolvedor focado em **Desenvolvimento Web**
-* 🌐 Conhecimentos em **HTML, CSS e JavaScript**
-* 🤖 Interesse em **Automação, Inteligência Artificial e APIs**
-* ⚙️ Experiência com ferramentas de desenvolvimento e automação
-* 🚀 Sempre estudando e buscando evoluir como desenvolvedor
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gelacki&style=flat-square&color=2EA3F7" alt="Visitantes de perfil" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+### 💻 Sobre mim
 
-<div align="center">
-
-### 🌐 Desenvolvimento Web
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" alt="HTML5"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**HTML5**   •   **CSS3**   •   **JavaScript**
-
-</div>
+- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS e JavaScript**
+- 🌱 Sempre evoluindo minhas habilidades em front-end
+- ⚡ Curioso por tecnologia e boas práticas de código
+- 📫 Entre em contato pelas redes abaixo
 
 ---
 
-## 📚 Atualmente estudando
+### 🛠️ Tecnologias que utilizo
 
-```text
-🌐 Desenvolvimento Web
-├── HTML5
-├── CSS3
-└── JavaScript
-
-⚙️ Desenvolvimento
-├── Git & GitHub
-├── APIs
-└── Integração de sistemas
-
-🤖 Automação & IA
-├── Automação de processos
-├── Inteligência Artificial
-└── n8n
-```
-
----
-
-## 💡 O que estou construindo
-
-```javascript
-const objetivo = {
-    aprender: "Todos os dias",
-    desenvolver: "Soluções inteligentes",
-    explorar: ["Web", "Automação", "IA"],
-    criar: "Projetos que gerem valor",
-    evoluir: true
-};
-
-console.log("🚀 Transformando ideias em código!");
-```
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+      <h3>HTML5</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
+      <h3>CSS3</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+      <h3>JavaScript</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+      <h3>Git</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+      <h3>GitHub</h3>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+      <h3>VS Code</h3>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gelacki&show_icons=true&theme=default&hide_border=true" alt="Estatísticas GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gelacki&hide_border=true" alt="Streak GitHub" height="165"/>
+</p>
 
 ---
 
-## 🐍 Contribuições
+### 🌐 Minhas redes
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🌎 Conecte-se comigo
-
-<div align="center">
-
-<a href="SEU_LINK_LINKEDIN">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="SEU_LINK_INSTAGRAM">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="SEU_LINK_GITHUB">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="SEU_LINK_WHATSAPP">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gelacki/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="45" height="45"/>
+      </a>
+      <h3>LinkedIn</h3>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/gelacki.krt" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="45" height="45"/>
+      </a>
+      <h3>Instagram</h3>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/5542999317547" target="_blank">
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" title="WhatsApp" alt="WhatsApp" width="45" height="45"/>
+      </a>
+      <h3>WhatsApp</h3>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Projetos
+<h3 align="center">✨ Aryell Gelacki™ | Desenvolvedor Web 💻</h3>
 
-### 🚀 Em desenvolvimento
+<p align="center">
+  <img src="https://img.shields.io/badge/feito%20com-%E2%9D%A4-2EA3F7?style=flat-square" alt="Feito com amor"/>
+</p>
 
-| Projeto        | Descrição                  | Tecnologias             |
-| -------------- | -------------------------- | ----------------------- |
-| 🌐 Projeto Web | Aplicação web responsiva   | HTML • CSS • JavaScript |
-| ⚙️ Automação   | Automação de processos     | JavaScript • n8n        |
-| 🤖 Projeto IA  | Soluções utilizando IA     | IA • APIs               |
-| 💻 Sistema     | Sistema em desenvolvimento | JavaScript              |
-
-> 🔨 Novos projetos serão adicionados conforme meu desenvolvimento profissional.
-
----
-
-## 🎯 Objetivos
-
-```text
-[████████████████░░░░] Desenvolvimento Web
-[██████████████░░░░░░] JavaScript
-[████████████░░░░░░░░] Automação
-[██████████░░░░░░░░░░] Inteligência Artificial
-[████████░░░░░░░░░░░░] Desenvolvimento de Sistemas
-```
-
----
-
-<div align="center">
-
-### 🚀 "Transformando ideias em código."
-
-**Obrigado por visitar meu perfil!**
-
-⭐ Explore meus projetos e acompanhe minha evolução.
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA3F7&height=100&section=footer"/>
+</p>
